@@ -1,0 +1,9 @@
+body {
+    background: white url("images/pompom.png") no-repeat;
+    background-position: right top;
+
+}
+
+li a {
+    color: green;
+}
