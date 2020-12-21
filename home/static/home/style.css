@@ -1,9 +1,8 @@
 body{
-    background:  white url("images/background.png") no-repeat;
-    background-position: center;
-    background-size: 10%;
-    height: 500px;
-    border-top: 10px solid #ccc;
+    background:  white url("images/frozen.jpg") no-repeat;
+    background-position: top;
+    background-size: 100%;
+
 }
 
 title{

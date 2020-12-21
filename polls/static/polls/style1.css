@@ -1,5 +1,9 @@
 body {
-    background: white url("images/kuromi.png") no-repeat;
-    background-position: right top;
+    background: white url("images/bruni.jpg") no-repeat;
+    background-position: top;
+    background-size: 100%;
 
+}
+body {
+    color: white;
 }

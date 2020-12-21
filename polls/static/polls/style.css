@@ -1,9 +1,11 @@
 body {
-    background: white url("images/pompom.png") no-repeat;
+    background: white url("images/great.jpg") no-repeat;
     background-position: right top;
+    background-size: 100%;
 
 }
 
 li a {
-    color: green;
+    color: white;
 }
+
